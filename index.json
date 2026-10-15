@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "openapi",
+  "versions": [
+    {
+      "commit": "dd03c2bbaab6847166e773c76dc25ee5d7483761",
+      "tag": "",
+      "parsed_at": "2026-10-15T10:14:55.672162+00:00"
+    }
+  ]
+}
